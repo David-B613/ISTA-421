@@ -1,0 +1,13 @@
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.exe
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.deps.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.runtimeconfig.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.runtimeconfig.dev.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.dll
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\bin\Debug\netcoreapp3.1\Programming_Ex12a.pdb
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.csprojAssemblyReference.cache
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.csproj.CoreCompileInputs.cache
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.AssemblyInfoInputs.cache
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.AssemblyInfo.cs
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.dll
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.pdb
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Programming_Ex12a\obj\Debug\netcoreapp3.1\Programming_Ex12a.genruntimeconfig.cache

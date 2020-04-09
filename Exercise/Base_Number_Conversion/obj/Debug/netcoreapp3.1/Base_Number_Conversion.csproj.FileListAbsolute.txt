@@ -1,0 +1,11 @@
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.exe
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.deps.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.runtimeconfig.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.runtimeconfig.dev.json
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.dll
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\bin\Debug\netcoreapp3.1\Base_Number_Conversion.pdb
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\obj\Debug\netcoreapp3.1\Base_Number_Conversion.csprojAssemblyReference.cache
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\obj\Debug\netcoreapp3.1\Base_Number_Conversion.AssemblyInfoInputs.cache
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\obj\Debug\netcoreapp3.1\Base_Number_Conversion.AssemblyInfo.cs
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\obj\Debug\netcoreapp3.1\Base_Number_Conversion.dll
+C:\Users\baber\Documents\GitHub\ISTA-421\Exercise\Base_Number_Conversion\obj\Debug\netcoreapp3.1\Base_Number_Conversion.pdb
