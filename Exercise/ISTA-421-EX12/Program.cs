@@ -8,10 +8,9 @@ namespace ISTA_421_EX12
         static void Main(string[] args)
         {
            
-            Math.initialize();
+            Math.Initialize();
 
-
-
+            
         }
     }
 }
